@@ -1,2 +1,2 @@
 # Guess-my-number
-1-20 arası numara tahmini yaparak doğru sayıyı bulmaya çalışıyoruz
+Try to find correct number between 1-20
